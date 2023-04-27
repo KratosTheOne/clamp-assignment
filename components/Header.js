@@ -8,7 +8,7 @@ const Header = () => {
     <div className="border-b-2">
         <div className="flex justify-between text-center px-2 py-2 text-sm font-medium sticky top-0 z-20 max-w-[1440px] mx-auto"> 
             <div className="py-3">
-                <ul className="flex justify-between items-center">
+                <ul className="flex justify-between items-center space-x-2">
                     <li className="pr-2 cursor-pointer">Features</li>
                     <li className="pl-1 pr-2 cursor-pointer">FAQs</li>
                     <li className="pl-1 cursor-pointer">Indexes</li>
