@@ -8,7 +8,7 @@ import arrow from "../Images/Right.png"
 
 const CryptoIndexes = () => {
   return (
-    <div className="w-96 h-[222px] border border-black stroke-2 mb-12">
+    <div className="w-96 h-[223px] border border-black stroke-2 mb-12">
         <div className="w-full flex">
             <div className="bg-[#F19241] w-1/3 h-[6px]"></div>
             <div className="bg-[#2F3030] w-1/3 h-[6px]"></div>
