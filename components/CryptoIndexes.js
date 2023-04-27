@@ -29,7 +29,7 @@ const CryptoIndexes = () => {
                 </div>
             </div>
             <div className="pt-6">
-                <p className="pr-[22px] text-xs">Price Change(24 hrs)</p>
+                <p className="pr-[22px] text-xs">Price Change(in 24 hrs)</p>
                 <div className="flex items-center pl-14 px-4 space-x-1">
                     <Image className="h-4 w-4 object-cover" src={arrow} alt="arrow"/>
                     <p className="text-medium font-bold">12%</p>

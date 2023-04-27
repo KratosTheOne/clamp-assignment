@@ -6,7 +6,7 @@ import info from "../Images/Info.png"
 const Hero = () => {
   return (
     <div className="border-b-2">
-      <div className="flex max-w-[1440px] mx-auto px-2">
+      <div className="flex max-w-7xl mx-auto px-2">
         <div className="border-r-2 w-[55%] pt-5 pb-6">
           <p className="text-xl font-bold">Home</p>
           <div className="mt-3 flex items-center space-x-3">
